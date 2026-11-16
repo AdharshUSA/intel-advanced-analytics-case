@@ -1,6 +1,6 @@
 # Intel and the $25 Billion Analytics Program: A Case Presentation
 
-Class presentation and report for **IE 590: Supply Chain Engineering and Analytics**, Purdue University, reviewing **Heiney et al. (2021), "Intel Realizes $25 Billion by Applying Advanced Analytics from Product Architecture Design Through Supply Chain Planning"**, INFORMS Journal on Applied Analytics, Vol. 51, No. 1, pp. 9 to 25. The presentation was given by a team of three. The written report and the critique below are my own.
+Class presentation and report for **IE 590: Supply Chain Engineering and Analytics**, Purdue University, reviewing **Heiney et al. (2021), "Intel Realizes $25 Billion by Applying Advanced Analytics from Product Architecture Design Through Supply Chain Planning"**, INFORMS Journal on Applied Analytics, Vol. 51, No. 1, pp. 9 to 25. The presentation was given by a team of three. The written report and the critique below are my own. Presentation team: Ajith Anandh, Gautham Vepa and Adharsh Rajasekar.
 
 This is a paper review. The methods and the financial results belong to Intel and the paper's authors. The contribution here is the summary, the critique and the lessons for analytics practitioners.
 
